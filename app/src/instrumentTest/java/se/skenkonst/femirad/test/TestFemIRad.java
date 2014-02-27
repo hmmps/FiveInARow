@@ -1,10 +1,10 @@
-package se.hellsoft.femirad.test;
+package se.skenkonst.femirad.test;
 
 import android.test.AndroidTestCase;
 
 import junit.framework.Assert;
 
-import se.hellsoft.femirad.MainActivity;
+import se.skenkonst.femirad.MainActivity;
 import se.hellsoft.femirad.R;
 
 /**

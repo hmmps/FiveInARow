@@ -1,4 +1,4 @@
-package se.hellsoft.femirad;
+package se.skenkonst.femirad;
 
 import android.app.Activity;
 import android.app.Fragment;
@@ -11,6 +11,8 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.GridLayout;
 import android.widget.Toast;
+
+import se.hellsoft.femirad.R;
 
 public class MainActivity extends Activity {
 
