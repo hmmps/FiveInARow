@@ -3,5 +3,5 @@
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="se.hellsoft.femirad.MainActivity"
+    tools:context="se.skenkonst.femirad.MainActivity"
     tools:ignore="MergeRootFrame" />
